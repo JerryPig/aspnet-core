@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  zcms.web.host:
+    image: ${DOCKER_REGISTRY-}zcmswebhost
+    build:
+      context: .
+      dockerfile: src/ZCms.Web.Host/Dockerfile

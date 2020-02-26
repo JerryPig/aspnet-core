@@ -1,0 +1,131 @@
+DEBUG 2020-02-26 10:08:10,279 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-02-26 10:08:10,393 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2020-02-26 10:08:10,410 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZCms.Web.Host.Startup.ZCmsWebHostModule, ZCms.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,412 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZCms.ZCmsWebCoreModule, ZCms.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,413 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZCms.ZCmsApplicationModule, ZCms.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,413 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZCms.ZCmsCoreModule, ZCms.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,414 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,414 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,415 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,415 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,416 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZCms.EntityFrameworkCore.ZCmsEntityFrameworkModule, ZCms.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,417 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,417 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,417 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,418 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,418 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:10,422 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2020-02-26 10:08:10,545 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-26 10:08:10,545 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-26 10:08:10,545 [1    ] o.Configuration.LanguageManagementConfig - Converted ZCms (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-26 10:08:10,545 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-26 10:08:11,197 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: ZCms.EntityFrameworkCore.ZCmsDbContext, ZCms.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:08:12,144 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-02-26 10:08:12,265 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-02-26 10:08:12,395 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-02-26 10:08:12,420 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: ZCms
+DEBUG 2020-02-26 10:08:12,479 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-02-26 10:08:12,758 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-02-26 10:08:12,900 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[ZCms.MultiTenancy.Tenant, ZCms.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ZCms.Authorization.Users.User, ZCms.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-02-26 10:08:12,961 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2020-02-26 10:08:12,961 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-02-26 10:08:12,968 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.Users.Dto.CreateUserDto
+DEBUG 2020-02-26 10:08:12,968 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.Users.Dto.UserDto
+DEBUG 2020-02-26 10:08:12,969 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-02-26 10:08:12,969 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-02-26 10:08:12,969 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.Roles.Dto.PermissionDto
+DEBUG 2020-02-26 10:08:12,969 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-02-26 10:08:12,970 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.MultiTenancy.Dto.TenantDto
+DEBUG 2020-02-26 10:09:48,693 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-02-26 10:09:48,762 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2020-02-26 10:09:48,779 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZCms.Web.Host.Startup.ZCmsWebHostModule, ZCms.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,781 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZCms.ZCmsWebCoreModule, ZCms.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,781 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZCms.ZCmsApplicationModule, ZCms.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,781 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZCms.ZCmsCoreModule, ZCms.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,782 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,782 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,782 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,783 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,783 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZCms.EntityFrameworkCore.ZCmsEntityFrameworkModule, ZCms.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,784 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,784 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,784 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,785 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,785 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,785 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:48,788 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2020-02-26 10:09:48,864 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-26 10:09:48,864 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-26 10:09:48,864 [1    ] o.Configuration.LanguageManagementConfig - Converted ZCms (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-26 10:09:48,864 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-26 10:09:49,265 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: ZCms.EntityFrameworkCore.ZCmsDbContext, ZCms.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-26 10:09:50,079 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-02-26 10:09:50,186 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-02-26 10:09:50,236 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-02-26 10:09:50,255 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: ZCms
+DEBUG 2020-02-26 10:09:50,292 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-02-26 10:09:50,482 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-02-26 10:09:50,604 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[ZCms.MultiTenancy.Tenant, ZCms.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ZCms.Authorization.Users.User, ZCms.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-02-26 10:09:50,654 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2020-02-26 10:09:50,654 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-02-26 10:09:50,660 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.Users.Dto.CreateUserDto
+DEBUG 2020-02-26 10:09:50,660 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.Users.Dto.UserDto
+DEBUG 2020-02-26 10:09:50,661 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-02-26 10:09:50,661 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-02-26 10:09:50,661 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.Roles.Dto.PermissionDto
+DEBUG 2020-02-26 10:09:50,661 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-02-26 10:09:50,662 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZCms.MultiTenancy.Dto.TenantDto
+INFO  2020-02-26 10:09:54,558 [1    ] tCore.Builder.RequestLocalizationOptions - Supported Request Localization Cultures: en,es-MX,fr,de,it,nl,pt-BR,tr,ru,ar,zh-Hans,ja
+INFO  2020-02-26 10:09:54,902 [1    ] taProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\ZHJ\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+INFO  2020-02-26 10:09:56,190 [14   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2020-02-26 10:09:56,357 [14   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'ZCms.Web.Host.Controllers.HomeController.Index (ZCms.Web.Host)'
+INFO  2020-02-26 10:09:59,576 [14   ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ZCms.Web.Host.Controllers.HomeController (ZCms.Web.Host).
+INFO  2020-02-26 10:10:00,674 [7    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2020-02-26 10:10:00,682 [7    ] c.Infrastructure.ControllerActionInvoker - Executed action ZCms.Web.Host.Controllers.HomeController.Index (ZCms.Web.Host) in 1100.5137ms
+INFO  2020-02-26 10:10:00,684 [7    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'ZCms.Web.Host.Controllers.HomeController.Index (ZCms.Web.Host)'
+INFO  2020-02-26 10:10:00,697 [7    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 4507.8902ms 302 
+INFO  2020-02-26 10:10:00,721 [7    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2020-02-26 10:10:00,878 [7    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 157.035ms 200 text/html;charset=utf-8
+INFO  2020-02-26 10:10:00,904 [7    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2020-02-26 10:10:00,908 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2020-02-26 10:10:00,909 [13   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2020-02-26 10:10:00,958 [15   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2020-02-26 10:10:00,961 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2020-02-26 10:10:00,965 [15   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 61.1461ms 200 text/css
+INFO  2020-02-26 10:10:00,968 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 57.6627ms 200 application/javascript
+INFO  2020-02-26 10:10:00,973 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2020-02-26 10:10:00,975 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 67.4186ms 200 application/javascript
+INFO  2020-02-26 10:10:01,090 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AntiForgery/SetCookie  
+INFO  2020-02-26 10:10:01,133 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2020-02-26 10:10:01,231 [11   ] uthentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenInvalidSignatureException: IDX10503: Signature validation failed. Keys tried: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+Exceptions caught:
+ '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateSignature(String token, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+INFO  2020-02-26 10:10:01,231 [10   ] uthentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenInvalidSignatureException: IDX10503: Signature validation failed. Keys tried: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+Exceptions caught:
+ '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateSignature(String token, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+INFO  2020-02-26 10:10:01,234 [10   ] uthentication.JwtBearer.JwtBearerHandler - JwtBearer was not authenticated. Failure message: IDX10503: Signature validation failed. Keys tried: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+Exceptions caught:
+ '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+INFO  2020-02-26 10:10:01,236 [11   ] uthentication.JwtBearer.JwtBearerHandler - JwtBearer was not authenticated. Failure message: IDX10503: Signature validation failed. Keys tried: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+Exceptions caught:
+ '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+INFO  2020-02-26 10:10:01,238 [11   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'ZCms.Web.Host.Controllers.AntiForgeryController.SetCookie (ZCms.Web.Host)'
+INFO  2020-02-26 10:10:01,249 [11   ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "SetCookie", controller = "AntiForgery", area = ""}. Executing controller action with signature Void SetCookie() on controller ZCms.Web.Host.Controllers.AntiForgeryController (ZCms.Web.Host).
+INFO  2020-02-26 10:10:01,282 [12   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-02-26 10:10:01,302 [12   ] c.Infrastructure.ControllerActionInvoker - Executed action ZCms.Web.Host.Controllers.AntiForgeryController.SetCookie (ZCms.Web.Host) in 51.2016ms
+INFO  2020-02-26 10:10:01,304 [12   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'ZCms.Web.Host.Controllers.AntiForgeryController.SetCookie (ZCms.Web.Host)'
+INFO  2020-02-26 10:10:01,306 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 215.3053ms 200 application/json; charset=utf-8
+INFO  2020-02-26 10:10:01,424 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 290.5162ms 200 application/json;charset=utf-8
